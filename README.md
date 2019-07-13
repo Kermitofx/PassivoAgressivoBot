@@ -51,5 +51,5 @@ As mensagens podem possuir algumas chaves para serem substituídas por
 informações. São elas:
 
 | Chave | Substituto |
-----------------------
+|----------------------|
 | `{NOME}` | Nome de quem enviou a mensagem |
